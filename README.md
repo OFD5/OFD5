@@ -12,15 +12,21 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 - ⚡ Fun fact: I love playing football ⚽ AND Chess ♟ 
 
 <hr>
+<h2 align="left"> My Blog Articles 💬</h2>
+<p align="center" align='center'>
+   <a target="_blank"href="https://medium.com/@OFD5"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  
+ 
+</p>
+
+<hr>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=radical" />
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img align="left" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white "/>
 
@@ -34,9 +40,13 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "/>
 
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "/>
 
 <img alt="Shell script" align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white "/>
 
 <img alt="Javascript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "/>
+
+<hr>
+
+
+
 
