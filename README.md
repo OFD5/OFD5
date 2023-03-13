@@ -7,8 +7,8 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 ⚡ A quick introduction
 
 - 🔭 I’m currently working in Bugbounty and learning RED TEAMING.
-- 🌱 I’m currently learning ASP .NET MVC.
-- 💬 Ask me about security
+- 🌱 I’m currently learning ASP .NET MVC and GO
+- 💬 Ask me about security.
 - ⚡ Fun fact: I love playing football ⚽ AND Chess ♟ 
 
 <hr>
