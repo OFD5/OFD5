@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while" />
 
-I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development in Websites.
+I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development. 
 <hr>
 
 ⚡ A quick introduction
