@@ -1,16 +1,15 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while)](https://git.io/typing-svg)
 
-<!--
-**OFD5/OFD5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development in Websites.
+<hr>
 
-Here are some ideas to get you started:
+⚡ A quick introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in Bugbounty and learning RED TEAMING.
+- 🌱 I’m currently learning ASP NET MVC.
+- 💬 Ask me about security
+- ⚡ Fun fact: I love playing football ⚽, Chess ♟ 
+
+<hr>
+
