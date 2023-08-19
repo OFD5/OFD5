@@ -1,6 +1,9 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while" />
-<img align="right" width="35%" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" />
+
 I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development. 
 
 #
