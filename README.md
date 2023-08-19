@@ -33,7 +33,9 @@ As a dedicated Cyber Security Researcher, I am driven by a relentless curiosity 
 💡 Achievements:
 
 - I was able to report xss to Makro.co.za which could have resulted in Account takeover using bugcrowd.com.
-- I also reported Xss on bing.com and reported it on msrc.microsoft.com. 
+- I also reported Xss on bing.com and reported it on msrc.microsoft.com.
+- <p>I also created a website that helps Grade 12 students apply for universities and scholarships. The website is called <a href="https://www.takeapplication.com">takeapplication.com</a>.</p>
+
 
 🚀 What Sets Me Apart:
 - Demonstrated ability to translate complex vulnerabilities into actionable insights for both technical and non-technical stakeholders.
