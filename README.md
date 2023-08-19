@@ -4,15 +4,24 @@
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while" />
 
-I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development. 
+#
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 #
+I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development.
+
 
 ⚡ A quick introduction
 - 🔭 I’m currently working in Bugbounty and learning RED TEAMING.
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about security, am ready to help.
 - ⚡ Fun fact: I love playing football ⚽ AND Chess ♟ 
+
+
 
 #
 <h2 align="left"> My Blog Articles 💬</h2>
