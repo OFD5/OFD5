@@ -38,6 +38,9 @@ As a dedicated Cyber Security Researcher, I am driven by a relentless curiosity 
 
 - <p>I also created a website that helps Grade 12 students apply for universities and scholarships. The website is called <a href="https://www.takeapplication.com">takeapplication.com</a>.</p>
 
+- On my Free time i like creating  automation tools to help enhance OSINT in tracing missing people and participate in Bug-bounty programs.
+
+
 
 🚀 What Sets Me Apart:
 - Demonstrated ability to translate complex vulnerabilities into actionable insights for both technical and non-technical stakeholders.
