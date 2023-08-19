@@ -29,7 +29,8 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 
 
 
-
+<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
+<img align="left" src="https://img.shields.io/badge/String Boot-339933?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Boot"/>
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white "/>
 
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "/>
