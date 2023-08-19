@@ -12,15 +12,36 @@
 </div>
 
 #
-I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development.
+I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development. Am self taught software developer and security researcher.
 
 
 ⚡ A quick introduction
 - 🔭 I’m currently working in Bugbounty and learning RED TEAMING.
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about security, am ready to help.
-- ⚡ Fun fact: I love playing football ⚽ AND Chess ♟ 
+- ⚡ Fun fact: I love playing football ⚽ AND Chess ♟
+  
 
+# Goal
+As a dedicated Cyber Security Researcher, I am driven by a relentless curiosity to uncover vulnerabilities and develop robust solutions that safeguard digital landscapes. With a background in Forensics, I thrive on the ever-evolving challenges posed by the cyber realm.
+
+🌐 Expertise:
+- Proficient in identifying and exploiting security flaws across diverse systems and networks.
+- Adept at conducting in-depth penetration testing to fortify defenses against potential threats.
+- Am also learning  reverse engineering and analyzing malware to anticipate and counteract cyber attacks.
+
+💡 Achievements:
+
+- I was able to report xss to Makro.co.za which could have resulted in Account takeover using bugcrowd.com.
+- I also reported Xss on bing.com and reported it on msrc.microsoft.com. 
+
+🚀 What Sets Me Apart:
+- Demonstrated ability to translate complex vulnerabilities into actionable insights for both technical and non-technical stakeholders.
+- Unparalleled passion for staying ahead of emerging threats and continuously honing skills through hands-on projects.
+- Collaborative mindset, thriving in cross-functional teams to drive comprehensive security solutions.
+
+📈 Vision:
+In an ever-connected world, my goal is to pioneer advancements that shape the future of cyber security. By combining cutting-edge technology, ethical principles, and innovative strategies, I aspire to contribute to a safer digital landscape for businesses and individuals alike.
 
 
 #
