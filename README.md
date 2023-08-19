@@ -62,8 +62,8 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 #
 
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=radical" />
-<img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFD5&layout=compact" />
+<img align="left"  width="55%" src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=radical" />
+<img align="left"  width="55%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFD5&layout=compact" />
 
 #
 
@@ -77,7 +77,6 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
 <img align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white "/>
-
 
 
 
