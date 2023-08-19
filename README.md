@@ -24,8 +24,8 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=radical" />
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
+<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFD5&layout=compact" />
 
 
 
@@ -33,14 +33,15 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 <img align="left" src="https://img.shields.io/badge/String Boot-339933?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Boot"/>
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white "/>
 
-<img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "/>
 
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white "/>
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "/>
-
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
 
 <img alt="Shell script" align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white "/>
 
