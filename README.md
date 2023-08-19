@@ -22,7 +22,7 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 - ⚡ Fun fact: I love playing football ⚽ AND Chess ♟
   
 
-# Goal
+# My Goal
 As a dedicated Cyber Security Researcher, I am driven by a relentless curiosity to uncover vulnerabilities and develop robust solutions that safeguard digital landscapes. With a background in Forensics, I thrive on the ever-evolving challenges posed by the cyber realm.
 
 🌐 Expertise:
