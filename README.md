@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👩🏾‍💻
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -12,6 +12,7 @@
 </div>
 
 #
+<img src="https://komarev.com/ghpvc/?username=OFD5&label=OFD5+Profile+Views">
 I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowledge on Security development. Am self taught software developer and security researcher.
 
 
@@ -63,7 +64,7 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 
 
 <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=radical" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=github_dark">
 
 #
 
