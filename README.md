@@ -63,11 +63,12 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 #
 
 
-<img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=radical" />
+<img align="right" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFD5&layout=compact&theme=cobalt&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=github_dark">
 
-#
 
+#
+<P>
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
 <img align="left" src="https://img.shields.io/badge/String Boot-339933?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Boot"/>
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white "/>
@@ -79,7 +80,7 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
 <img align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white "/>
 
-
+</P>
 
 
 
