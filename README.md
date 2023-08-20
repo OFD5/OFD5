@@ -63,7 +63,7 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 
 
 <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=radical" />
-<img align="left"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFD5&layout=compact" />
+
 
 #
 
