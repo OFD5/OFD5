@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Peace+and+blessings+of+God+be+upon+U+" />
 
 #
 
@@ -21,6 +21,7 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about security, am ready to help.
 - ⚡ Fun fact: I love playing football ⚽ AND Chess ♟
+- 👳‍♂️ I'm also student of Comparative religion 
   
 
 # My Goal
