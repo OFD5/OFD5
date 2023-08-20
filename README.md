@@ -20,6 +20,7 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
 - 🔭 I’m currently working in Bugbounty and learning RED TEAMING.
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about security, am ready to help.
+- 📫 How to reach me: OFD5@takeapplication.com
 - ⚡ Fun fact: I love playing football ⚽ AND Chess ♟
 - 👳‍♂️ I'm also student of Comparative religion 
   
