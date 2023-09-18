@@ -26,7 +26,7 @@ I'm OFD5. Am student in UKZN Doing Forensic sciences. I like promulgating Knowle
   
 
 # My Goal
-As a dedicated Cyber Security Researcher, I am driven by a relentless curiosity to uncover vulnerabilities and develop robust solutions that safeguard digital landscapes. With a background in Forensics, I thrive on the ever-evolving challenges posed by the cyber realm.
+As a dedicated Cyber Security Researcher and Software Developer, I am driven by a relentless curiosity to uncover vulnerabilities and develop robust solutions that safeguard digital landscapes. With a background in Forensics, I thrive on the ever-evolving challenges posed by the cyber realm.
 
 🌐 Expertise:
 - Proficient in identifying and exploiting security flaws across diverse systems and networks.
