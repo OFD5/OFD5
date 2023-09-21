@@ -32,6 +32,8 @@ As a dedicated Cyber Security Researcher and Software Developer, I am driven by 
 - Proficient in identifying and exploiting security flaws across diverse systems and networks.
 - Adept at conducting in-depth penetration testing to fortify defenses against potential threats.
 - Am also learning  reverse engineering and analyzing malware to anticipate and counteract cyber attacks.
+- I also provide empirical source code shield against web attacks.
+- Experienced in creating and implementing comprehensive incident response plans to effectively mitigate and recover from security breaches.
 
 💡 Achievements:
 
