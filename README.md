@@ -45,7 +45,7 @@ As a dedicated Cyber Security Researcher and Software Developer, I am driven by 
 
 - <p>I also created a website that helps Grade 12 students apply for universities and scholarships. The website is called <a href="https://www.takeapplication.com">takeapplication.com</a>.</p>
 
-- On my Free time i like creating  automation tools to help enhance OSINT in tracing missing people and participate in Bug-bounty programs. Missing people cases they are always neglected by police department as result of lack of OSINT tools for the task. However, in my Github account i wanna document steps to enhance OSINT for missing people. 
+- On my Free time i like creating  automation tools to help enhance OSINT in tracing missing people and participate in Bug-bounty programs. Missing people cases they are always neglected by police department as result of lack of OSINT tools for the task. However, in my Github account i wanna document steps to enhance OSINT for missing people and Also help developers create robust Web apps and mobile appplications that are Secure from Hacking. 
 
 
 
