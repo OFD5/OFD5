@@ -41,7 +41,7 @@ As a dedicated Cyber Security Researcher and Software Developer, I am driven by 
 
 - <p>I was able to report XSS to <a href="https://www.makro.co.za">Makro.co.za</a> which could have resulted in Account takeover using <a href="https://www.bugcrowd.com">bugcrowd.com</a>.</p>
 
-- <p>I also reported XSS on <a href="https://www.bing.com">bing.com</a> and reported it on Microsoft web security company <a href="https://msrc.microsoft.com/report/vulnerability/new">msrc.microsoft.com</a>.</p>
+- <p>I also reported Dom XSS on <a href="https://www.bing.com">bing.com</a> and reported it on Microsoft web security company <a href="https://msrc.microsoft.com/report/vulnerability/new">msrc.microsoft.com</a>.</p>
 
 - <p>I also created a website that helps Grade 12 students apply for universities and scholarships. The website is called <a href="https://www.takeapplication.com">takeapplication.com</a>.</p>
 
