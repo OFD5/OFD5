@@ -98,6 +98,10 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 ###  Framework development 
 <img align="left" src="https://img.shields.io/badge/String Boot-339933?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Boot"/>
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 
