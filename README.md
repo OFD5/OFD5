@@ -102,6 +102,9 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#
+### Social Media
+<a href="https://www.linkedin.com/in/ahmed-ofd5-7788521bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bakhoucheakram" height="30" width="40" /></a>
 
 
 
