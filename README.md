@@ -71,8 +71,10 @@ In an ever-connected world, my goal is to pioneer advancements that shape the fu
 ### 📊 Stats:
 #
 
-<img align="right" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFD5&layout=compact&theme=cobalt&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFD5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="OFD5"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=OFD5&show_icons=true&theme=github_dark">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFD5&theme=nord_dark">
 
 #
