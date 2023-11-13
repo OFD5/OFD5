@@ -23,6 +23,7 @@ I'm **OFD5**. Am a Graudte Student from UKZN  in Forensic sciences. I like promu
 - 🔭 I’m currently working in Bugbounty and learning RED TEAMING.
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about security, am ready to help.
+- 👬 I’m looking to collaborate on **Making our world into a better place.**
 - 📫 How to reach me: mynetbooks54@gmail.com
 - ⚡ Fun fact: I love playing football ⚽.
 
