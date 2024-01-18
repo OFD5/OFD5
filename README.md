@@ -24,7 +24,7 @@ I'm **OFD5**. Am a Graudte Student from UKZN  in Forensic sciences. I like promu
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about security, am ready to help.
 - 👬 I’m looking to collaborate on **Making our world into a better place.**
-- 📫 How to reach me: mynetbooks54@gmail.com
+- 📫 How to reach me: OFD5@safepayload.co.za
 - ⚡ Fun fact: I love playing football ⚽.
 - 📚 Reading new problem everyday and trying to come with Solution. 
 
