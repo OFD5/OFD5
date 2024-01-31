@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=OFD5&label=OFD5+Profile+Views"> 
 
  
-I'm **OFD5**. Am a Graudte Student from UKZN  in Forensic sciences. I like promulgating Knowledge on Security development. Am self taught software developer and security researcher.
+I'm **OFD5**. Am a Gradute Student from UKZN  in Forensic sciences. I like promulgating Knowledge on Security development. Am self taught software developer and security researcher.
 
 
 ⚡ A quick introduction
