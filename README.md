@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Peace+and+blessings+of+God+be+upon+U+" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=How+are+you+?" />
 <p align="center"><strong><code>(Cybersecurity Researcher/Junior Java Software Developer)</code></strong></p>
 
 #
